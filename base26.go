@@ -1,7 +1,6 @@
 package base26
 
 import (
-	"fmt"
 	bc "github.com/chtison/baseconverter"
 	"math/big"
 )
